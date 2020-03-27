@@ -1,2 +1,2 @@
 # Lab-IA
-LAB-IA
+Elaborado por Juan sebastian cardona sanchez
